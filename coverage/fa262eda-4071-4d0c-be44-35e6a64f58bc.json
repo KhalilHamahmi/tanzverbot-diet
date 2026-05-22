@@ -1,0 +1,94 @@
+{
+  "scriptId": "314",
+  "url": "file:///C:/Users/Khalil%20Hamahmi/OneDrive%20-%20sluz/Dokumente/GitHub/tanzverbot-diet/tanzverbot_diet.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [
+        {
+          "startOffset": 0,
+          "endOffset": 1784,
+          "count": 1
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [
+        {
+          "startOffset": 31,
+          "endOffset": 106,
+          "count": 1
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "calcDateOnDiet",
+      "ranges": [
+        {
+          "startOffset": 561,
+          "endOffset": 1783,
+          "count": 2
+        },
+        {
+          "startOffset": 721,
+          "endOffset": 832,
+          "count": 1
+        },
+        {
+          "startOffset": 834,
+          "endOffset": 905,
+          "count": 0
+        },
+        {
+          "startOffset": 905,
+          "endOffset": 968,
+          "count": 1
+        },
+        {
+          "startOffset": 968,
+          "endOffset": 1115,
+          "count": 10
+        },
+        {
+          "startOffset": 1011,
+          "endOffset": 1015,
+          "count": 0
+        },
+        {
+          "startOffset": 1058,
+          "endOffset": 1062,
+          "count": 0
+        },
+        {
+          "startOffset": 1115,
+          "endOffset": 1346,
+          "count": 1
+        },
+        {
+          "startOffset": 1346,
+          "endOffset": 1519,
+          "count": 0
+        },
+        {
+          "startOffset": 1519,
+          "endOffset": 1637,
+          "count": 1
+        },
+        {
+          "startOffset": 1637,
+          "endOffset": 1718,
+          "count": 0
+        },
+        {
+          "startOffset": 1718,
+          "endOffset": 1782,
+          "count": 1
+        }
+      ],
+      "isBlockCoverage": true
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "scriptId": "312",
+  "url": "file:///C:/Users/Khalil%20Hamahmi/OneDrive%20-%20sluz/Dokumente/GitHub/tanzverbot-diet/tanzverbot_diet_test.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [
+        {
+          "startOffset": 0,
+          "endOffset": 537,
+          "count": 1
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [
+        {
+          "startOffset": 134,
+          "endOffset": 208,
+          "count": 1
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [
+        {
+          "startOffset": 262,
+          "endOffset": 534,
+          "count": 1
+        },
+        {
+          "startOffset": 496,
+          "endOffset": 528,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": true
+    }
+  ]
+}
